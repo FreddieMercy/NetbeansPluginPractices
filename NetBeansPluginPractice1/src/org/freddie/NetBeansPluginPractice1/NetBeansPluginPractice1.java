@@ -5,6 +5,8 @@
  */
 
 package org.freddie.NetBeansPluginPractice1;
+import org.openide.modules.ModuleInstall;
+import org.openide.windows.OnShowing;
 
 /**
  *
@@ -12,5 +14,9 @@ package org.freddie.NetBeansPluginPractice1;
  */
 @OnShowing
 public class NetBeansPluginPractice1 extends ModuleInstall implements Runnable {
+@Override
+public void run(){
+
+}
 
 }

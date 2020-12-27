@@ -3,4 +3,4 @@ AutoUpdate-Show-In-Client: true
 OpenIDE-Module: org.freddie.NetBeansPluginPractice1
 OpenIDE-Module-Localizing-Bundle: org/freddie/NetBeansPluginPractice1/Bundle.properties
 OpenIDE-Module-Specification-Version: 1.0
-
+OpenIDE-Module-Install: org/freddie/NetBeansPluginPractice1/NetBeansPluginPractice1.class
