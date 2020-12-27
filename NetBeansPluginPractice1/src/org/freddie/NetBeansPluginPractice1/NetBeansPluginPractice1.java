@@ -15,8 +15,7 @@ import org.openide.windows.OnShowing;
 @OnShowing
 public class NetBeansPluginPractice1 extends ModuleInstall implements Runnable {
 @Override
-public void run(){
+    public void run(){
 
-}
-
+    }
 }
